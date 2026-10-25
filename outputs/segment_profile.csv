@@ -1,0 +1,4 @@
+segment,hubs,mean_delivery_hours,delay_rate,mean_distance_km,mean_n_stops
+Standard,7,47.2396,0.0257,188.9296,55.3686
+Watch,8,56.8137,0.155,314.1762,70.7175
+Escalate,9,64.6504,0.46,470.4757,84.3444

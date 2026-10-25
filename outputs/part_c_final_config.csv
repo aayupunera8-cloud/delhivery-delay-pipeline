@@ -1,0 +1,2 @@
+selector_k,n_estimators,max_depth,min_samples_leaf,threshold,chosen_from
+7,100,unlimited,1,0.5,default_forest_same_7_features

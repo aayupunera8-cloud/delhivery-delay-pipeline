@@ -1,0 +1,6 @@
+metric,value
+train_rows,840.0
+val_rows,180.0
+test_rows,180.0
+train_scaled_max_abs_mean,0.0
+test_scaled_max_abs_mean,0.2187

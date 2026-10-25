@@ -1,0 +1,49 @@
+shipment_id,hub_id,segment,delay_probability,flagged,action
+SHP90001,HUB22,Watch,0.09,0,No action
+SHP90002,HUB24,Escalate,0.74,1,Escalate to hub manager
+SHP90003,HUB18,Escalate,0.88,1,Escalate to hub manager
+SHP90004,HUB12,Watch,0.0,0,No action
+SHP90005,HUB22,Watch,0.73,1,Proactive customer call
+SHP90006,HUB12,Watch,0.06,0,No action
+SHP90007,HUB09,Watch,0.53,1,Proactive customer call
+SHP90008,HUB01,Standard,0.01,0,No action
+SHP90009,HUB09,Watch,0.08,0,No action
+SHP90010,HUB13,Escalate,0.47,0,No action
+SHP90011,HUB17,Escalate,0.89,1,Escalate to hub manager
+SHP90012,HUB07,Watch,0.04,0,No action
+SHP90013,HUB06,Standard,0.0,0,No action
+SHP90014,HUB01,Standard,0.0,0,No action
+SHP90015,HUB16,Watch,0.03,0,No action
+SHP90016,HUB19,Escalate,0.14,0,No action
+SHP90017,HUB23,Escalate,0.33,0,No action
+SHP90018,HUB24,Escalate,0.43,0,No action
+SHP90019,HUB16,Watch,0.0,0,No action
+SHP90020,HUB02,Standard,0.0,0,No action
+SHP90021,HUB19,Escalate,0.06,0,No action
+SHP90022,HUB20,Escalate,0.01,0,No action
+SHP90023,HUB04,Standard,0.0,0,No action
+SHP90024,HUB15,Escalate,0.31,0,No action
+SHP90025,HUB20,Escalate,0.64,1,Escalate to hub manager
+SHP90026,HUB03,Standard,0.42,0,No action
+SHP90027,HUB23,Escalate,0.27,0,No action
+SHP90028,HUB18,Escalate,0.3,0,No action
+SHP90029,HUB13,Escalate,0.42,0,No action
+SHP90030,HUB17,Escalate,0.16,0,No action
+SHP90031,HUB04,Standard,0.0,0,No action
+SHP90032,HUB08,Standard,0.0,0,No action
+SHP90033,HUB10,Watch,0.0,0,No action
+SHP90034,HUB15,Escalate,0.37,0,No action
+SHP90035,HUB08,Standard,0.22,0,No action
+SHP90036,HUB05,Standard,0.03,0,No action
+SHP90037,HUB07,Watch,0.38,0,No action
+SHP90038,HUB14,Watch,0.27,0,No action
+SHP90039,HUB06,Standard,0.0,0,No action
+SHP90040,HUB11,Watch,0.0,0,No action
+SHP90041,HUB21,Escalate,0.85,1,Escalate to hub manager
+SHP90042,HUB10,Watch,0.06,0,No action
+SHP90043,HUB05,Standard,0.09,0,No action
+SHP90044,HUB14,Watch,0.15,0,No action
+SHP90045,HUB03,Standard,0.01,0,No action
+SHP90046,HUB21,Escalate,0.53,1,Escalate to hub manager
+SHP90047,HUB11,Watch,0.0,0,No action
+SHP90048,HUB02,Standard,0.01,0,No action

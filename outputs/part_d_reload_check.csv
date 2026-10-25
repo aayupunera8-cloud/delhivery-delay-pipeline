@@ -1,0 +1,4 @@
+metric,value
+test_rows_scored,180.0
+reload_max_abs_probability_diff,0.0
+threshold,0.5

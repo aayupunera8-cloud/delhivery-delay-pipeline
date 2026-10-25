@@ -1,0 +1,4 @@
+search,candidates,cv_folds,total_fits,best_params,best_cv_accuracy,val_f1
+grid_search,27,5,135,"{""max_depth"": 6, ""min_samples_leaf"": 1, ""n_estimators"": 100}",0.8952,0.775
+randomized_search,9,5,45,"{""max_depth"": 6, ""min_samples_leaf"": 1, ""n_estimators"": 50}",0.8905,0.7848
+default_forest_same_7_features,1,0,1,"{""max_depth"": null, ""min_samples_leaf"": 1, ""n_estimators"": 100}",,0.8333
